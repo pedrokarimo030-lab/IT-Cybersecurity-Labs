@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT-Cybersecurity Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/pedrokarimo030-lab/osticket-prereqs)
+  - [AD: Prerequisites and Installation](https://github.com/pedrokarimo030-lab/AD Infrastructure)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/pedrokarimo030-lab/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/pedrokarimo030-lab/azure-network-protocols)
